@@ -1,0 +1,2 @@
+[22-Jan-2016 13:06:11 America/Denver] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home2/rosegol7/public_html/wp-content/themes/Avada/framework/plugins/post-types-order/post-types-order.php on line 11
+[23-Jan-2016 12:14:40 America/Denver] PHP Fatal error:  Call to undefined function plugin_dir_path() in /home2/rosegol7/public_html/wp-content/themes/Avada/framework/plugins/post-types-order/post-types-order.php on line 11

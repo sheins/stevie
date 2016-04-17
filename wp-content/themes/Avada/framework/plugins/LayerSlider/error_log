@@ -1,0 +1,5 @@
+[08-Dec-2015 11:39:23 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home2/rosegol7/public_html/wp-content/themes/Avada/framework/plugins/LayerSlider/layerslider.php on line 26
+[09-Dec-2015 08:13:51 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home2/rosegol7/public_html/wp-content/themes/Avada/framework/plugins/LayerSlider/layerslider.php on line 26
+[13-Dec-2015 23:00:46 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home2/rosegol7/public_html/wp-content/themes/Avada/framework/plugins/LayerSlider/layerslider.php on line 26
+[14-Dec-2015 08:02:07 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home2/rosegol7/public_html/wp-content/themes/Avada/framework/plugins/LayerSlider/layerslider.php on line 26
+[15-Dec-2015 12:36:47 America/Denver] PHP Fatal error:  Call to undefined function get_template_directory_uri() in /home2/rosegol7/public_html/wp-content/themes/Avada/framework/plugins/LayerSlider/layerslider.php on line 26
